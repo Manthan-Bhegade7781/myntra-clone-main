@@ -11,13 +11,13 @@ It replicates the core structure of Myntra’s homepage and demonstrates respons
 ---
 
 ## ✨ Features
-- 🔹 **Responsive Navigation Bar** with dropdown mega menus  
-- 🔹 **Profile Menu, Wishlist & Bag icons** (like the original Myntra site)  
-- 🔹 **Hero Banner Section** for promotions  
-- 🔹 **Offer Zone** with responsive grid layout  
-- 🔹 **Shop by Categories Section** with product images  
-- 🔹 **Footer with useful links & app download buttons**  
-- 🔹 **Fully Responsive Design** powered by Bootstrap grid system  
+- **Responsive Navigation Bar** with dropdown mega menus  
+- **Profile Menu, Wishlist & Bag icons** (like the original Myntra site)  
+- **Hero Banner Section** for promotions  
+- **Offer Zone** with responsive grid layout  
+- **Shop by Categories Section** with product images  
+- **Footer with useful links & app download buttons**  
+- **Fully Responsive Design** powered by Bootstrap grid system  
 
 ---
 
