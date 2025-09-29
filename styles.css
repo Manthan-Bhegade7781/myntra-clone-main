@@ -1,0 +1,212 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Logo */
+.myntralogo {
+  width: 55px;
+  height: auto;
+}
+
+/* Navbar */
+.nav-links {
+  display: flex;
+  gap: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.nav-links a {
+  text-decoration: none;
+  color: #282c3f;
+  padding: 20px 0;
+  display: inline-block;
+}
+.nav-links a:hover {
+  color: #f54e27;
+}
+
+/* Dropdown */
+.dropdown-myntra {
+  position: relative;
+}
+
+/* Mega menu */
+.mega-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #fff;
+  display: none;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  padding: 20px 40px;
+  min-width: 700px;
+  border-top: 2px solid #f54e27;
+}
+.dropdown-myntra:hover .mega-menu {
+  display: block;
+}
+.mega-menu h6 {
+  font-size: 13px;
+  font-weight: bold;
+  color: #f54e27;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+.mega-menu ul {
+  list-style: none;
+  padding: 0;
+}
+.mega-menu ul li {
+  margin-bottom: 6px;
+}
+.mega-menu ul li a {
+  text-decoration: none;
+  color: #282c3f;
+  font-size: 13px;
+}
+.mega-menu ul li a:hover {
+  color: #f54e27;
+}
+
+/* Search box */
+.searchbox {
+  width: 30%;
+  min-width: 250px;
+  background: #f5f5f6;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.search_icon {
+  padding: 10px;
+  color: #696e79;
+  font-size: 20px;
+}
+.searchbox input {
+  background: #f5f5f6;
+  font-size: 14px;
+}
+
+/* Action icons */
+.action-icons span {
+  font-size: 26px;
+  color: #282c3f;
+}
+.action-icons .small {
+  font-size: 11px;
+  font-weight: 500;
+  color: #444;
+}
+
+/* Profile Dropdown */
+.dropdown-profile {
+  cursor: pointer;
+}
+.profile-menu {
+  position: absolute;
+  top: 50px;
+  right: 0;
+  background: #fff;
+  width: 240px;
+  border-radius: 4px;
+  display: none;
+  z-index: 1000;
+  padding: 10px 0;
+}
+.dropdown-profile:hover .profile-menu {
+  display: block;
+}
+.profile-menu h6 {
+  font-size: 14px;
+  font-weight: 600;
+}
+.profile-menu p {
+  font-size: 12px;
+  color: #666;
+}
+.profile-menu .login-btn {
+  background: #ff3f6c;
+  color: #fff;
+  border: none;
+  padding: 8px;
+  border-radius: 3px;
+  font-size: 10px;
+  margin: 0 0px;
+  cursor: pointer;
+}
+.profile-menu .login-btn:hover {
+  background: #e91e63;
+}
+.profile-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.profile-menu ul li {
+  padding: 10px 15px;
+}
+.profile-menu ul li a {
+  text-decoration: none;
+  color: #333;
+  font-size: 14px;
+  display: block;
+}
+.profile-menu ul li a:hover {
+  background: #f5f5f5;
+  color: #f54e27;
+}
+.profile-menu .new {
+  color: red;
+  font-size: 10px;
+  font-weight: bold;
+  margin-left: 4px;
+}
+
+/* Banner */
+.banner_img {
+  border-radius: 6px;
+}
+
+/* Headings */
+.heading {
+  text-transform: uppercase;
+  color: #3e4152;
+  letter-spacing: .15em;
+  font-size: 1.6rem;
+  margin: 30px 0 20px;
+  font-weight: 700;
+}
+
+/* Offers & Categories */
+.shadow-sm {
+  border-radius: 6px;
+}
+
+/* Footer */
+footer h5 {
+  color: #282c3f;
+  font-size: 14px;
+  margin-bottom: 15px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+footer a {
+  font-size: 13px;
+  color: #696b79 !important;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #f54e27 !important;
+}
+footer .social-icons a {
+  font-size: 20px;
+  margin-right: 10px;
+  color: #696b79;
+  text-decoration: none;
+}
+footer .social-icons a:hover {
+  color: #f54e27;
+}
