@@ -15,8 +15,7 @@ It replicates the core structure of Myntra’s homepage and demonstrates respons
 - **Profile Menu, Wishlist & Bag icons** (like the original Myntra site)  
 - **Hero Banner Section** for promotions  
 - **Offer Zone** with responsive grid layout  
-- **Shop by Categories Section** with product images  
-- **Footer with useful links & app download buttons**  
+- **Shop by Categories Section** with product images   
 - **Fully Responsive Design** powered by Bootstrap grid system  
 
 ---
@@ -32,4 +31,10 @@ It replicates the core structure of Myntra’s homepage and demonstrates respons
 This project is created for **learning and practicing frontend web development**.  
 It focuses on responsive layouts, dropdown menus, and real-world e-commerce UI design.
 
+---
+
+## 📬 Contact
+
+- manthanbhegade407@gmail.com
+  
 ---
